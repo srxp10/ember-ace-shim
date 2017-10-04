@@ -1,7 +1,7 @@
 {
   "name": "ember-ace-shim",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An Ember shim addon for Ace to include it in older versions of Ember as an ECMA6 module.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -34,7 +34,8 @@
     "ember-try": "0.0.4"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-ace-shim"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0"
