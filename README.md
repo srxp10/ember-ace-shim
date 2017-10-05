@@ -1,25 +1,8 @@
-# Ember-ace-shim
+# Ember-ace-shim - an Ember Shim for Ace
 
-This README outlines the details of collaborating on this Ember addon.
+For older versions of Ember-cli - in this case 0.2.3 - the really greate new
+awesome ember-ace addons are useless.. they simply depend on a higher version
+of ember and ember-cli. To cope with the problem, I've created this simple
+ember addon to wrap Ace.
 
-## Installation
-
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+Multiple attempts were made with ember-browsify to make Ace work.
