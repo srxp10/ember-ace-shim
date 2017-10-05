@@ -5,7 +5,8 @@ awesome ember-ace addons are useless.. they simply depend on a higher version
 of ember and ember-cli. To cope with the problem, I've created this simple
 ember addon to wrap Ace.
 
-Multiple attempts were made with ember-browsify to make Ace work.
+Multiple attempts were made with ember-browsify to make Ace work, without
+success, making it an Ember addon works fine in this case.
 
 # Guide
 Use your normal way of installing this plugin, 
