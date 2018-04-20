@@ -1,4 +1,3 @@
-// tests/unit/chartist-module-test.js
 import { module, test } from 'qunit';
 import ace from 'ace';
 
