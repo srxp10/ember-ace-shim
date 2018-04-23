@@ -4,9 +4,9 @@
       'use strict';
 
       // Set default path - this is going to help with selecting a correct theme for example.
-      values.default.config.set(
-        'basePath', 'bower_components/ace-builds/src-noconflict'
-      );
+      ace.config.set('basePath', '/assets/javascript');
+      ace.config.set('modePath', '/assets/javascript');
+      ace.config.set('themePath', '/assets/javascript');
 
       return values;
     });
