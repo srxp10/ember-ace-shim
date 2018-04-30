@@ -1,6 +1,6 @@
 {
   "name": "ember-ace-shim",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An Ember shim addon for Ace to include it in older versions of Ember as an ECMA6 module.",
   "directories": {
     "doc": "doc",
