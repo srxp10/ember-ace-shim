@@ -1,9 +1,9 @@
 # Ember-ace-shim - an Ember Shim for Ace
 
-For older versions of Ember-cli - in this case 1.13.15 - the really great new
-awesome ember-ace addons are useless.. they simply depend on a higher version
-of ember and ember-cli. To cope with the problem, I've created this simple
-ember addon to wrap/load Ace.
+Currently you can use https://www.npmjs.com/package/ember-ace instead of this shim. But
+if you want to be more free in what you want to do with ace, you can still use this plugin.
+This shim was initially made to work with older versions of Ember-cli ( < 1.13) but that is no
+longer relevant. The current version works with at least Ember 2.5.1.
 
 # Guide
 Install and save it to your dev dependencies
